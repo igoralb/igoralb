@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Tecnologia da Informação na UFRN<br>💻 Estudando para me tornar um desenvolvedor Fullstack (1 ano de experiência)<br>🚀 Foco em desenvolvimento web (Front-end e Back-end)<br>📚 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades</p>
+<p align="left">🎓 Estudante de Tecnologia da Informação na UFRN<br>💻 Estudando para me tornar um desenvolvedor Fullstack <br>🚀 Foco em desenvolvimento web e Qualidade de Software<br>📚 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades</p>
 
 ###
 
